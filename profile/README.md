@@ -4,10 +4,8 @@ Alright-Team was created for develop Android Custom ROMs/Kernels/Recoverys for y
 
 Devices Offically Supported By **Alright-Team**
 
-- | Xiaomi MediaTek Dimensity 810 Family
 - | Exynos 7870 Family
 - | Exynos 7580 Family
-- | Exynos 9610 Family
 
 
 #####
